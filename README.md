@@ -1,12 +1,12 @@
 
-- 📚 Second-year student at University of Lucknow
+- 📚 Sophomore at University of Lucknow
 - ✍️ I write poems and devour stories, always seeking new perspectives
 - 🎮 Gamer at heart—CS2 and The Witcher 3 are my go-to escapes
 - 📖 Avid reader: I journey through <br>
   <em>A Song of Ice and Fire</em>, <em>Harry Potter</em>, <em>The Witcher</em> books, and the tales of <em>Sherlock Holmes</em>
 - 
 - [www.tomavilius.in](https://www.tomavilius.in)
-
+- 
 ---
 
 <p align="center">
